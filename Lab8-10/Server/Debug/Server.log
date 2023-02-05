@@ -1,0 +1,21 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (Server.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  Server.cpp
+E:\tools\31m\pibsp\Lab8-10\Server\Server.cpp(1): warning C4603: _WINSOCK_DEPRECATED_NO_WARNINGS: макрос не определен или определение изменилось после использования предкомпилированного заголовка
+E:\tools\31m\pibsp\Lab8-10\Server\Server.cpp(1): message : Добавление макроопределения в предкомпилированный заголовок вместо определения его здесь
+E:\tools\31m\pibsp\Lab8-10\Server\Server.cpp(4): message : использование предварительно скомпилированного заголовка
+E:\tools\31m\pibsp\Lab8-10\Server\Server.cpp(2): warning C4603: _CRT_SECURE_NO_WARNINGS: макрос не определен или определение изменилось после использования предкомпилированного заголовка
+E:\tools\31m\pibsp\Lab8-10\Server\Server.cpp(2): message : Добавление макроопределения в предкомпилированный заголовок вместо определения его здесь
+E:\tools\31m\pibsp\Lab8-10\Server\Server.cpp(4): message : использование предварительно скомпилированного заголовка
+E:\tools\31m\pibsp\Lab8-10\Server\Server.cpp(80,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\tools\31m\pibsp\Lab8-10\Server\Server.cpp(87,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\tools\31m\pibsp\Lab8-10\Server\Server.cpp(167,100): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+E:\tools\31m\pibsp\Lab8-10\Server\Server.cpp(300,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\tools\31m\pibsp\Lab8-10\Server\Server.cpp(316,6): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\tools\31m\pibsp\Lab8-10\Server\Server.cpp(392,6): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\tools\31m\pibsp\Lab8-10\Server\Server.cpp(476,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\tools\31m\pibsp\Lab8-10\Server\Server.cpp(480,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\tools\31m\pibsp\Lab8-10\Server\Server.cpp(481,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\tools\31m\pibsp\Lab8-10\Server\Server.cpp(485,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\tools\31m\pibsp\Lab8-10\Server\Server.cpp(486,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\tools\31m\pibsp\Lab8-10\Server\Server.cpp(49): warning C4715: set_param: значение возвращается не при всех путях выполнения
+  Server.vcxproj -> E:\tools\31m\pibsp\Lab8-10\Server\Debug\ConcurrentServer.exe

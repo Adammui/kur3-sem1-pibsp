@@ -1,0 +1,3 @@
+﻿  ServerMS.cpp
+E:\tools\31m\pibsp\7 - Mailslots\7\ServerMS.cpp(71,10): warning C4101: hms1: неиспользованная локальная переменная
+  7.vcxproj -> E:\tools\31m\pibsp\7 - Mailslots\x64\Debug\ServerMS.exe

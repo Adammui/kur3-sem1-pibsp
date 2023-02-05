@@ -1,0 +1,4 @@
+﻿  ServerNP.cpp
+E:\tools\31m\pibsp\6 - NamedPipe\ServerNP\ServerNP.cpp(126,67): warning C4267: аргумент: преобразование из "size_t" в "DWORD"; возможна потеря данных
+E:\tools\31m\pibsp\6 - NamedPipe\ServerNP\ServerNP.cpp(131,58): warning C4267: аргумент: преобразование из "size_t" в "DWORD"; возможна потеря данных
+  ServerNP.vcxproj -> E:\tools\31m\pibsp\6 - NamedPipe\x64\Debug\ServerNP.exe

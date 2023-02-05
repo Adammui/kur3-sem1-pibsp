@@ -1,0 +1,4 @@
+C:\Users\Reyn\Downloads\Lab2\Lab2C\Debug\Lab2C.exe
+C:\Users\Reyn\Downloads\Lab2\Lab2C\Debug\Lab2C.pdb
+E:\tools\31m\pibsp\Lab-2\Lab2C\Debug\Lab2C.exe
+E:\tools\31m\pibsp\Lab-2\Lab2C\Debug\Lab2C.pdb

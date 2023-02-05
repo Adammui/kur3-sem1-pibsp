@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  RConsole.cpp
+E:\tools\31m\pibsp\parallel_server\server test\RConsole\ClientNP\RConsole.cpp(47,7): warning C4101: msg: неиспользованная локальная переменная
+E:\tools\31m\pibsp\parallel_server\server test\RConsole\ClientNP\RConsole.cpp(48,7): warning C4101: final_msg: неиспользованная локальная переменная
+E:\tools\31m\pibsp\parallel_server\server test\RConsole\ClientNP\RConsole.cpp(68,6): warning C4101: n: неиспользованная локальная переменная
+  ClientNP.vcxproj -> E:\tools\31m\pibsp\parallel_server\server test\RConsole\x64\Debug\RConsole.exe

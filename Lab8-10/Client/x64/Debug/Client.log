@@ -1,0 +1,16 @@
+﻿  stdafx.cpp
+  Client.cpp
+C:\Users\AntonB\Desktop\Lab8-10\Client\Client.cpp(1): warning C4603: _WINSOCK_DEPRECATED_NO_WARNINGS: макрос не определен или определение изменилось после использования предкомпилированного заголовка
+C:\Users\AntonB\Desktop\Lab8-10\Client\Client.cpp(1): message : Добавление макроопределения в предкомпилированный заголовок вместо определения его здесь
+C:\Users\AntonB\Desktop\Lab8-10\Client\Client.cpp(4): message : использование предварительно скомпилированного заголовка
+C:\Users\AntonB\Desktop\Lab8-10\Client\Client.cpp(2): warning C4603: _CRT_SECURE_NO_WARNINGS: макрос не определен или определение изменилось после использования предкомпилированного заголовка
+C:\Users\AntonB\Desktop\Lab8-10\Client\Client.cpp(2): message : Добавление макроопределения в предкомпилированный заголовок вместо определения его здесь
+C:\Users\AntonB\Desktop\Lab8-10\Client\Client.cpp(4): message : использование предварительно скомпилированного заголовка
+C:\Users\AntonB\Desktop\Lab8-10\Client\Client.cpp(66,6): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\AntonB\Desktop\Lab8-10\Client\Client.cpp(83,8): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\AntonB\Desktop\Lab8-10\Client\Client.cpp(52,26): error C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Users\AntonB\Desktop\Lab8-10\Client\Client.cpp(61,3): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\AntonB\Desktop\Lab8-10\Client\Client.cpp(64,3): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\AntonB\Desktop\Lab8-10\Client\Client.cpp(82,5): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Error.cpp
+  Создание кода...

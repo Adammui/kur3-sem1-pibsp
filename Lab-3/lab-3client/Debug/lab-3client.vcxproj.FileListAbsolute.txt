@@ -1,0 +1,2 @@
+E:\tools\31m\pibsp\Lab-3\lab-3client\Debug\lab-3client.exe
+E:\tools\31m\pibsp\Lab-3\lab-3client\Debug\lab-3client.pdb

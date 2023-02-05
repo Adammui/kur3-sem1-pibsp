@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  RemoteConsole.cpp
+C:\Users\AntonB\Desktop\Lab8-10\RemoteConsole\RemoteConsole.cpp(1): warning C4603: _CRT_SECURE_NO_WARNINGS: макрос не определен или определение изменилось после использования предкомпилированного заголовка
+C:\Users\AntonB\Desktop\Lab8-10\RemoteConsole\RemoteConsole.cpp(1): message : Добавление макроопределения в предкомпилированный заголовок вместо определения его здесь
+C:\Users\AntonB\Desktop\Lab8-10\RemoteConsole\RemoteConsole.cpp(3): message : использование предварительно скомпилированного заголовка
+C:\Users\AntonB\Desktop\Lab8-10\RemoteConsole\RemoteConsole.cpp(29,6): warning C4101: n: неиспользованная локальная переменная
+  RemoteConsole.vcxproj -> C:\Users\AntonB\Desktop\Lab8-10\Server\x64\Debug\RemoteConsole.exe

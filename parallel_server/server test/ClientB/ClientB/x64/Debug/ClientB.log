@@ -1,0 +1,9 @@
+﻿  ClientB.cpp
+E:\tools\31m\pibsp\parallel_server\server test\ClientB\ClientB\ClientB.cpp(137,7): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+E:\tools\31m\pibsp\parallel_server\server test\ClientB\ClientB\ClientB.cpp(158,9): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+E:\tools\31m\pibsp\parallel_server\server test\ClientB\ClientB\ClientB.cpp(119,26): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+E:\tools\31m\pibsp\parallel_server\server test\ClientB\ClientB\ClientB.cpp(133,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\tools\31m\pibsp\parallel_server\server test\ClientB\ClientB\ClientB.cpp(135,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\tools\31m\pibsp\parallel_server\server test\ClientB\ClientB\ClientB.cpp(157,6): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\tools\31m\pibsp\parallel_server\server test\ClientB\ClientB\ClientB.cpp(125,5): warning C4101: obuf: неиспользованная локальная переменная
+  ClientB.vcxproj -> E:\tools\31m\pibsp\parallel_server\server test\ClientB\x64\Debug\ClientB.exe

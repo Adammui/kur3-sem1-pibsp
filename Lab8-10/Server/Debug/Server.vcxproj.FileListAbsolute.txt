@@ -1,0 +1,3 @@
+C:\Users\AntonB\Desktop\Lab8-10\Server\Debug\ConcurrentServer.exe
+E:\tools\31m\pibsp\Lab8-10\Server\Debug\ConcurrentServer.exe
+E:\tools\31m\pibsp\Lab8-10\Server\Debug\ConcurrentServer.pdb
